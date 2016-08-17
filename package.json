@@ -1,0 +1,22 @@
+{
+  "name": "express-handlebars-inline-script",
+  "version": "0.0.1",
+  "description": "helper to inline a script with fallback to serving a script via src",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephClay/express-handlebars-inline-script.git"
+  },
+  "keywords": [
+    "express-handlebars"
+  ],
+  "author": "Joseph Clay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JosephClay/express-handlebars-inline-script/issues"
+  },
+  "homepage": "https://github.com/JosephClay/express-handlebars-inline-script#readme"
+}
